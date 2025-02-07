@@ -341,7 +341,7 @@ const SortingVisualizer = () => {
             return QuickSort();
           }}
         >
-          Quick Sort Sort
+          Quick Sort
         </button>
         <button
           className="stop-animation-button"
